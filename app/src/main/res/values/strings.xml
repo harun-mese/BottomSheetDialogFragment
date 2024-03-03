@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Bottom Sheet Dialog Fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playBtn">play</string>
+    <string name="before">before</string>
+    <string name="next">next</string>
+    <string name="text">-Minha força vem da terra\n
+Minha força vem da mata\n
+Minha força vem da terra\n
+Minha força vem da mata\n
+Vem força da cachoeira\n
+Vem com a força da pedreira\n
+Vem força da cachoeira\n
+Vem com a força da pedreira\n
+Minha força é dos caboclos\n
+Honrando as medicinas de poder neste lugar\n
+Honrando as medicinas de poder neste lugar\n
+Ossain abre os caminhos para Oxossi ensinar\n
+Ossain abre os caminhos para Oxossi ensinar\n
+Okê arô\n
+Ogum ye\n
+Kaô kabecile\n
+Ora yeye ô\n
+Eparey oyav
+Odoya\n
+Epa baba\n
+Salve os Caboclos e Orixá\n
+É o balanço da floresta\n
+Dance junto nessa festa\n
+É o balanço da floresta\n
+Sinta a força da mãe Gaia\n
+É o balanço da floresta\n
+Dance junto nessa festa\n
+É o balanço da floresta\n
+É o balanço do maracá\n
+É na força do atabaque\n
+Brada Caboclo\n
+Floresta em festa\n
+Brada Caboclo\n
+Protetores dessa mata\n
+Caçadores fazem ronda\n
+Durante nossa passagem\n
+Me acompanhe Pena Branca\n
+Licença para entrada\n
+Licença terra sagrada\n
+Comungando as medicinas\n
+Curando minha morada\n
+Oxóssi reina\n
+Salve os Caboclos\n
+OKÊ ARÔ\n
+OGUM YE\n
+KAÔ KABECILE\n
+ORA YEYE Ô MAMÃE OXUM\n
+EPARREY OYA\n
+ODOYA\n
+EPA BABA\n
+Salve os caboclo e orixá</string>
+    <string name="dialogdismis">dismis</string>
+</resources>
